@@ -1,8 +1,12 @@
 a = 4
 b= 6
 
-sum = a+b
-print(sum)
+def sum(x,y):
+    return x+y
+
+sum1 = sum(a,b)
+print(sum1)
+
 
 def multiply(x,y):
     return x*y
