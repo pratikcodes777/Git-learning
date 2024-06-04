@@ -31,3 +31,6 @@ def subtract(x,y):
 
 sub = subtract(a,b)
 print(sub)
+
+
+print("git is fun")
