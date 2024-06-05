@@ -36,3 +36,9 @@ print(sub)
 print("git is fun")
 
 print("ooh this is too much fun")
+
+def new_feature_test():
+    return "test successful"
+
+
+print(new_feature_test())
